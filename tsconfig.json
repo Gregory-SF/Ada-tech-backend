@@ -1,0 +1,9 @@
+{ 
+    "compilerOptions": {
+        "target": "es2016",                          // Define o alvo de compilação do JavaScript
+        "module": "commonjs",                        // Define o sistema de módulos
+        "strict": true,                              // Ativa todas as verificações de tipo estritas
+        "esModuleInterop": true, 
+        "skipLibCheck": true                         // Pula a verificação de tipos de arquivos de declaração
+    }
+}
