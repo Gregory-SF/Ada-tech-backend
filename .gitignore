@@ -1,5 +1,5 @@
-anotacoes.js
-anotacoes.ts
+anotacoes.*
 node_modules
 .env*
 .txt
+/teste
