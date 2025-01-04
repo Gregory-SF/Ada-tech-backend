@@ -5,6 +5,7 @@
         "strict": true,                              // Ativa todas as verificações de tipo estritas
         "esModuleInterop": true, 
         "skipLibCheck": true,                         // Pula a verificação de tipos de arquivos de declaração
-        "noImplicitAny": true
+        "noImplicitAny": true,
+        "resolveJsonModule": true
     }
 }
