@@ -1,5 +1,4 @@
-anotacoes.*
 node_modules
-.env*
+.env
 .txt
 /teste
