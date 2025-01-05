@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "af0211be-80b0-4b57-914e-162190894c42",
+      "name": "Fulano",
+      "age": 20
+    },
+    {
+      "id": "c1db227c-703d-4a79-967a-f0c3aaa95cc9",
+      "name": "Ciclano",
+      "age": 40
+    },
+    {
+      "id": "9b778b38-2507-439b-8ed4-25de2c2ed7cb",
+      "name": "Gregory",
+      "age": 20
+    },
+    {
+      "id": "fba30597-2df4-4bc1-9a6c-4b9a83b1ab11",
+      "name": "Nawi",
+      "age": 20
+    },
+    {
+      "id": "da60b922-6fdb-43b0-8b84-04abfb3b8e2e",
+      "name": "Breno",
+      "age": 20
+    }
+  ]
+}
